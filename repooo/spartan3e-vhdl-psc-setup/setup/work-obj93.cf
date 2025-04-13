@@ -1,0 +1,13 @@
+v 4
+file . "project_io_tb.vhd" "1b281d6ee66310c381da56ea6c8c5c04eccd9e11" "20250413192136.860":
+  entity project_io_tb at 1( 0) + 0 on 105;
+  architecture behavioural of project_io_tb at 23( 583) + 0 on 106;
+file . "tb_konacni.vhdl" "a5cac214c5f9513d8904199db522e098396fd0fe" "20250413184056.512":
+  entity tb_portcomp at 1( 0) + 0 on 99;
+  architecture behavioral of tb_portcomp at 8( 110) + 0 on 100;
+file . "konacni.vhdl" "5779e9311b735b19554267a8a3af054e20e9dc24" "20250413192124.194":
+  entity portcomp at 1( 0) + 0 on 101;
+  architecture behavioralportcomp of portcomp at 14( 278) + 0 on 102;
+file . "project_io.vhd" "aa835bdb06d2c334a2d59966f03527c1cbbc1a0e" "20250413192132.323":
+  entity project_io at 1( 0) + 0 on 103;
+  architecture behavioural of project_io at 21( 611) + 0 on 104;
